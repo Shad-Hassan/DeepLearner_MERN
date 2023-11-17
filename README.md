@@ -1,7 +1,7 @@
 # Deep LEARN with MERN stack
 Important links for research purposes
 <h1 align="center">Hello 👋, I'm Shad Hassan</h1>
-<h3 align="center">A passionate MERN stack developer from Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer expanding into Computer Vision and Deep Learning from Dhaka, Bangladesh</h3>
 
 - 🔭 I’m currently working on **Controlling robotic arm with EEG signals**
 
