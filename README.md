@@ -2,7 +2,10 @@
 <div align="center">
   <img src="/Slide1.JPG" alt="Logo" width="100%">
 </div>
-## Important links for research purposes
+<div>
+<h1 align="center">Hello 👋, I'm Shad Hassan</h1>## Important links for research purposes
+</div>
+
 <h1 align="center">Hello 👋, I'm Shad Hassan</h1>
 <h3 align="center">A passionate MERN stack developer expanding into Computer Vision and Deep Learning from Dhaka, Bangladesh</h3>
 
