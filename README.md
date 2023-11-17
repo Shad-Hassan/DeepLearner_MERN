@@ -1,6 +1,8 @@
 # Deep LEARN with MERN stack
-![Logo](/Slide1.JPG)
-Important links for research purposes
+<div align="center">
+  <img src="/Slide1.JPG" alt="Logo" width="100%">
+</div>
+## Important links for research purposes
 <h1 align="center">Hello 👋, I'm Shad Hassan</h1>
 <h3 align="center">A passionate MERN stack developer expanding into Computer Vision and Deep Learning from Dhaka, Bangladesh</h3>
 
