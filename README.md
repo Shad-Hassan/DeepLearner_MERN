@@ -13,5 +13,6 @@ https://books.google.com.bd/books?hl=en&lr=&id=f44hLefOz6UC&oi=fnd&pg=PT4&dq=EEG
 - Human-machine interfaces based on EMG and EEG applied to robotic systems (2008)
 2) https://escholarship.org/uc/item/0d90x267
 - Integration of a Low Cost EEG Headset with The Internet of Thing Framework (2017)
+
 More to Come) 
 
