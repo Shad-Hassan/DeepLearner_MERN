@@ -3,7 +3,7 @@
   <img src="/Slide1.JPG" alt="Logo" width="100%">
 </div>
 <div>
-<h1 align="center">Hello 👋, I'm Shad Hassan</h1>## Important links for research purposes
+<h2 align="center">Important links for research purposes</h2>
 </div>
 
 <h1 align="center">Hello 👋, I'm Shad Hassan</h1>
